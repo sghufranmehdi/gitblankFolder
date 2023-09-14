@@ -3,3 +3,4 @@ line2 of main
 
 This line belongs to f2.
 This line also belons to feature2
+This line also belongs to feature2
