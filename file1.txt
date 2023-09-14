@@ -2,3 +2,4 @@ This line is written in main branch
 line2 of main
 
 This line belongs to f2.
+This line also belons to feature2
