@@ -6,3 +6,7 @@ This line also represents f1
 This line belongs to f2.
 This line also belons to feature2
 This line also belongs to feature2
+
+This line belongs to feature3
+This line also belongs to feature3
+This line too belongs to feature 3
