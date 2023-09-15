@@ -9,3 +9,4 @@ This line also belongs to feature2
 
 This line belongs to feature3
 This line also belongs to feature3
+This line too belongs to feature 3
